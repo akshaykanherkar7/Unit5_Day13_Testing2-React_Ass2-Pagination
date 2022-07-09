@@ -1,0 +1,29 @@
+{
+    "quetions": [
+        {
+            "id": 1,
+            "question" : "How are you feeling?" ,
+            "answer": "Iam fine"
+        },
+        {
+            "id": 2,
+            "question" : "what are you doing?" ,
+            "answer": "nothing"
+        },
+        {
+            "id": 3,
+            "question" : "How can you do this?" ,
+            "answer": "i dont know"
+        },
+        {
+            "id": 4,
+            "question" : "Are you good?" ,
+            "answer": "Yea"
+        },
+        {
+            "id": 5,
+            "question" : "How are you feeling?" ,
+            "answer": "Iam fine"
+        }
+    ]
+}
